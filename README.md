@@ -8,7 +8,7 @@ Django - Django REST Framework (for API CRUD operations) - React.
 
 ## Getting started
 1. Clone the project to your machine 
-```[git clone https://github.com/Jordanirabor/django-todo-react]```
+```[git clone https://github.com/r06942072/pro_django-todo-react.git]```
 2. Navigate into the diretory ```[cd django-todo-react]```
 3. Source the virtual environment ```[pipenv shell]```
 4. Install the dependencies ```[pipenv install]```
